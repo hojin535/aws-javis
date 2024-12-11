@@ -1,5 +1,6 @@
 # Javis - 자소서 비서 서비스
 클라우드컴퓨팅(AWS) 과제 구현을 위한 javis 프로젝트입니다.
+
 발표자료: https://www.canva.com/design/DAGYnAsfluA/GbfKrpRBVEmJLaE-UQ108w/edit?utm_content=DAGYnAsfluA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ### 진행중
 - 프론트 https://github.com/hojin535/javis-front
