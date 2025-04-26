@@ -12,7 +12,10 @@
 Javis는 취업 준비자들이 자소서 작성을 위해 필요한 정보를 효율적으로 저장하고 관리할 수 있도록 돕는 아카이빙 웹 서비스입니다.
 
 
-발표자료: https://www.canva.com/design/DAGYnAsfluA/GbfKrpRBVEmJLaE-UQ108w/edit?utm_content=DAGYnAsfluA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+### 발표자료
+https://www.canva.com/design/DAGYnAsfluA/GbfKrpRBVEmJLaE-UQ108w/edit?utm_content=DAGYnAsfluA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+### 소스코드 리포지토리
 - 프론트 https://github.com/hojin535/javis-front
 - 백엔드 https://github.com/hojin535/javis-backend
 
