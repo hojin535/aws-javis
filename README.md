@@ -79,45 +79,68 @@
 ## 프론트엔드 주요 화면 및 기능
 
 ### 주요 화면 소개 (UI/UX)
-### 로그인화면 / 회원가입 화면
+- 로그인화면 / 회원가입 화면
 
 | 로그인 화면 | 회원가입 화면 |
-|-------------|--------------|
-| ![로그인화면](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/로그인화면.png) | ![회원가입 화면](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/회원가입%20화면.png) |
+|-------------|---------------|
+| <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/로그인화면.png" width="450"/> | <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/회원가입%20화면.png" width="450"/> |
 
-### 내 정보
+---
 
-| 내 정보 |
-|---------|
-| ![내 정보 1](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/내정보1.png) |
-| ![내 정보 2](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/내정보2.png) |
+- 내 정보
 
-### 내 자소서
+| 내 정보 1 | 내 정보 2 |
+|-----------|-----------|
+| <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/내정보1.png" width="450"/> | <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/내정보2.png" width="450"/> |
 
-| 내 자소서 |
-|-----------|
-| ![내 자소서](https://github.com/hojin535/aws-javis/blob/main/readmeImages//front/내자소서.png) |
-| ![내 자소서 카드 추가](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/내자소서%20카드%20추가.png) |
+---
 
-### 내 공고
+- 내 자소서
 
-| 내 공고 |
-|---------|
-| ![내 공고](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/내공고.png) |
-| ![공고 추가](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/공고추가.png) |
-| ![공고 내부](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/공고%20내부.png) |
+| 내 자소서 1 | 내 자소서 2 |
+|-------------|-------------|
+| <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/내자소서.png" width="450"/> | <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/내자소서%20카드%20추가.png" width="450"/> |
 
-### 에디터
+---
+
+- 내 공고
+
+| 내 공고 1 | 내 공고 2 |
+|-----------|-----------|
+| <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/내공고.png" width="450"/> | <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/공고추가.png" width="450"/> |
+
+| 내 공고 3 |  |
+|-----------|-----------|
+| <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/공고%20내부.png" width="450"/> |  |
+
+---
+
+- 에디터
 
 | 에디터 |
 |--------|
-| ![카드 에디터](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/카드%20에디터.png) |
+| <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/카드%20에디터.png" width="450"/> |
 
-### 사이드 메뉴
+---
 
-| 내자소서 | 내공고 |
+- 사이드 메뉴
+
+| 내 자소서 | 내 공고 |
 |-------------|-------------|
-| ![내 자소서 사이드 메뉴](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/사이드메뉴%20내%20자소서.png) | ![내 공고 사이드 메뉴](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/사이드메뉴%20내공고.png) |
+| <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/사이드메뉴%20내%20자소서.png" height="450"/> | <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/사이드메뉴%20내공고.png" height="450"/> |
+
+---
+
+- 검색
+
+| 검색 1 | 검색 2 |
+|--------|--------|
+| <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/검색창.png" width="450"/> | <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/태그검색.png" width="450"/> |
+
+| 검색 3 | 검색 4 |
+|--------|--------|
+| <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/태그%20검색결과.png" width="450"/> | <img src="https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/직접검색.png" width="450"/> |
+
 
 ---
 ### 프론트엔드 제작과정 및 핵심 기술
@@ -153,18 +176,7 @@
     return () => clearTimeout(delayDebounceTimer);
   }, [title, text]);
 ```
-
-
-### 검색
-
-| 검색 |
-|------|
-| ![검색창](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/검색창.png) |
-| ![태그 검색](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/태그검색.png) |
-| ![태그 검색 결과](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/태그%20검색결과.png) |
-| ![직접 검색](https://github.com/hojin535/aws-javis/blob/main/readmeImages/front/직접검색.png) |
-
-### 프론트엔드 기술 구조
+#### 프론트엔드 핵심 기술
 - **React.js** 
 - **Recoil**로 전역 상태 관리 (로그인 정보, 자소서 리스트 등)
 - **Material-UI (MUI)**
@@ -172,12 +184,8 @@
 - **Axios**
 - **React Router**
 
-### 주요 기능 요약
-- 사용자 로그인/회원가입 기능 (JWT 기반 인증)
-- 자소서 CRUD 기능 (작성, 수정, 삭제)
-- 입력 폼 유효성 검증 및 사용자 친화적 피드백 제공
-- 반응형 레이아웃 및 모바일 최적화 지원
 
+---
 
 ### 제한사항 극복 과정
 - #### DNS,HTTPS 설정 불가 문제
