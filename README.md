@@ -72,7 +72,7 @@
 - RDS (MySQL): 구조화된 데이터 저장
 - DynamoDB: 비정형 데이터 저장
 - ACM: SSL 인증서 관리
-- API Gateway: 내부 통신 비용 절감
+- Gateway Endpoint: 내부 통신 비용 절감
 
 ![AWS 다이어그램](https://github.com/hojin535/aws-javis/blob/main/readmeImages/aws%20cloud.png)
 
